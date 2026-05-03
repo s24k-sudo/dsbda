@@ -1,0 +1,11 @@
+Sinhgad College of Engineering, Pune-41.
+Department of Information Technology
+PR/OR Examination TE, 2025-26
+Data Science and Big Data Analytics Laboratory
+
+Problem Statement 7:
+
+Create a review scrapper for any ecommerce website to fetch real time comments, reviews,
+ratings, comment tags, customer name using Python.
+
+Lab: Lab 38

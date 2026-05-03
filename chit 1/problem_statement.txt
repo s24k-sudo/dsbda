@@ -1,0 +1,13 @@
+Sinhgad College of Engineering, Pune-41.
+Department of Information Technology
+PR/OR Examination TE, 2025-26
+Data Science and Big Data Analytics Laboratory
+
+Problem Statement 1:
+
+Design a distributed application using MapReduce (Using Java) which processes a log file
+of a system. List out the users who have logged for maximum period on the system.
+Use simple log file from the Internet and process it using a pseudo distribution mode
+on Hadoop platform.
+
+Lab: Lab 40

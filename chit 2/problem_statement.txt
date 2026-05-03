@@ -1,0 +1,15 @@
+Sinhgad College of Engineering, Pune-41.
+Department of Information Technology
+PR/OR Examination TE, 2025-26
+Data Science and Big Data Analytics Laboratory
+
+Problem Statement 2:
+
+Perform the following operations using Python on the Facebook metrics data sets:
+a. Create data subsets
+b. Merge Data
+c. Sort Data
+d. Transposing Data
+e. Shape and reshape Data
+
+Lab: Lab 38
