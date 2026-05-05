@@ -1,0 +1,14 @@
+Sinhgad College of Engineering, Pune-41.
+Department of Information Technology
+PR/OR Examination TE, 2025-26
+Data Science and Big Data Analytics Laboratory
+
+Problem Statement 8:
+
+Visualize the data using Python libraries matplotlib, seaborn by plotting the graphs for
+(assignment no. 3). Integrate Python and Hadoop and perform the following operations on
+forest fire dataset:
+a. Data analysis using the Map Reduce in PyHadoop
+b. Data mining in Hive
+
+Lab: Lab 40
